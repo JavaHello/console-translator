@@ -1,6 +1,8 @@
 # 使用
 
-环境变量配置 `MY_TOOLS`(名称可自定义)。
+环境变量配置 `MY_TOOLS`(名称可自定义)当前路径，例: `MY_TOOLS=C:/console-translator`。
+
+设置`fy.bat`
 
 ![fy.bat](https://github.com/JavaHello/console-translator/raw/master/images/1.PNG)
 
