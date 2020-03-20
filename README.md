@@ -15,3 +15,5 @@
 ![gif](https://github.com/JavaHello/console-translator/raw/master/images/test.gif)
 
 > 注: `linux` 版可执行添加脚本，与 `windows` 版原理一样
+
+[无需依赖Node版本](https://github.com/JavaHello/fy)
